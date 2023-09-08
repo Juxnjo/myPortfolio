@@ -1,7 +1,9 @@
+import { NavBar } from "./components/navbar/NavBar";
+
 export default function App() {
   return (
-    <h1 className="text-3xl font-bold underline">
-      Hello Portfolio
-    </h1>
+    <>
+      <NavBar></NavBar>
+    </>
   )
 }
