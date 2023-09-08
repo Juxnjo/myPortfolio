@@ -9,7 +9,10 @@ export default {
       colors: {
         primary: "#111827",
         primaryLight: "#172135"
-      }
+      },
+      fontFamily: {
+        SourceCodePro: ["Source Code Pro", "monospace"]
+      },
     },
   },
   plugins: [],
